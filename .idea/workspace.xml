@@ -3,8 +3,34 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd7ead3-6b52-48fc-9257-f947ac7c07f0" name="Default Changelist" comment="" />
+    <list default="true" id="1bd7ead3-6b52-48fc-9257-f947ac7c07f0" name="Default Changelist" comment="Cinema App">
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +44,9 @@
         <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -37,6 +66,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-ORM-Mapping-ManyToOne/src/main/java/com/orm3/repository" />
@@ -143,11 +173,56 @@
       <option name="presentableId" value="Default" />
       <updated>1608483578411</updated>
       <workItem from="1608483579458" duration="46536000" />
+      <workItem from="1609012384429" duration="5257000" />
     </task>
+    <task id="LOCAL-00001" summary="Cinema App">
+      <created>1609012509363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609012509363</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cinema App">
+      <created>1609012621278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609012621278</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cinema App">
+      <created>1609014837556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609014837556</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cinema App">
+      <created>1609015580769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609015580769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cinema App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cinema App" />
   </component>
   <component name="WindowStateProjectService">
     <state x="668" y="304" key="#Assign_Data_Sources" timestamp="1608500715851">
@@ -158,54 +233,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608497290450" />
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1608994470168">
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1609017989243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608994470168" />
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609017989243" />
     <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608495420442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608495420442" />
-    <state width="1493" height="57" key="GridCell.Tab.0.bottom" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.0.bottom" timestamp="1609016059535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
+    <state width="1493" height="74" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
     <state width="1877" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="57" key="GridCell.Tab.0.center" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.0.center" timestamp="1609016059535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
+    <state width="1493" height="74" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
     <state width="1877" height="122" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="57" key="GridCell.Tab.0.left" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.0.left" timestamp="1609016059535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
+    <state width="1493" height="74" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
     <state width="1877" height="122" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="57" key="GridCell.Tab.0.right" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.0.right" timestamp="1609016059535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
+    <state width="1493" height="74" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
     <state width="1877" height="122" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="57" key="GridCell.Tab.1.bottom" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.1.bottom" timestamp="1609016059536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
-    <state width="1493" height="57" key="GridCell.Tab.1.center" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
+    <state width="1493" height="74" key="GridCell.Tab.1.center" timestamp="1609016059536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
-    <state width="1493" height="57" key="GridCell.Tab.1.left" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
+    <state width="1493" height="74" key="GridCell.Tab.1.left" timestamp="1609016059535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
-    <state width="1493" height="57" key="GridCell.Tab.1.right" timestamp="1609012359724">
+    <state width="1493" height="74" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
+    <state width="1493" height="74" key="GridCell.Tab.1.right" timestamp="1609016059536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="57" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609012359724" />
+    <state width="1493" height="74" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1609011407973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609011407973" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1609015582363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609015582363" />
     <state x="668" y="273" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1608497088723">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
