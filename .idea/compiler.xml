@@ -6,20 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-ORM-Mapping-ManyToMany" />
         <module name="Spring-ORM-TableCreation" />
         <module name="Spring-ORM-OneToMany" />
+        <module name="Spring-ORM-CinemaLab" />
         <module name="Spring-ORM-Mapping-ManyToOne" />
         <module name="Spring-ORM-SQL" />
         <module name="Spring-ORM-Mapping-OneToOne" />
+        <module name="Spring-ORM-Mapping-ManyToMany" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Spring-ORM-SQL" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-ORM-CinemaLab" options="-parameters" />
       <module name="Spring-ORM-Mapping-ManyToMany" options="-parameters" />
       <module name="Spring-ORM-Mapping-ManyToOne" options="-parameters" />
       <module name="Spring-ORM-Mapping-OneToOne" options="-parameters" />
