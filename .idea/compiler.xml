@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,15 +11,21 @@
         <module name="Spring-ORM-OneToMany" />
         <module name="Spring-ORM-CinemaLab" />
         <module name="Spring-ORM-Mapping-ManyToOne" />
-        <module name="Spring-ORM-SQL" />
+        <module name="Spring-ORM-DerivedQueries" />
+        <module name="Spring-ORM-Mapping-JPQL-NamedQueries" />
         <module name="Spring-ORM-Mapping-OneToOne" />
         <module name="Spring-ORM-Mapping-ManyToMany" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring-ORM-SQL" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-ORM-CinemaLab" options="-parameters" />
+      <module name="Spring-ORM-DerivedQueries" options="-parameters" />
+      <module name="Spring-ORM-Mapping-JPQL-NamedQueries" options="-parameters" />
       <module name="Spring-ORM-Mapping-ManyToMany" options="-parameters" />
       <module name="Spring-ORM-Mapping-ManyToOne" options="-parameters" />
       <module name="Spring-ORM-Mapping-OneToOne" options="-parameters" />

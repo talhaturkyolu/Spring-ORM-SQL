@@ -23,13 +23,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7ead3-6b52-48fc-9257-f947ac7c07f0" name="Default Changelist" comment="Cinema App">
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/bootsrap/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/CinemaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/GenreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieCinemaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823/storage_v2/_src_/database/befty_db.1fWxVw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823/storage_v2/_src_/database/befty_db.1fWxVw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/BaseEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/MovieCinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/MovieCinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/DerivedqueriyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/entity/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/entity/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/DepartmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/DepartmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/RegionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/repository/RegionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-ORM-Mapping-JPQL-NamedQueries/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-Mapping-JPQL-NamedQueries/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +66,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -69,7 +96,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-ORM-Mapping-ManyToOne/src/main/java/com/orm3/repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-ORM-Mapping-JPQL-NamedQueries/src/main/java/com/jpql/entity" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.35300928" />
@@ -79,17 +107,19 @@
       <recent name="com.orm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jpql.enums" />
       <recent name="com.orm3.enums" />
       <recent name="com.orm3.bootstrap" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-ORM-Mapping-JPQL-NamedQueries\src\main\java\com\jpql\entity" />
+      <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-ORM-Mapping-JPQL-NamedQueries\src\main\resources" />
       <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-ORM-Mapping-ManyToOne\src\main\java\com\orm3\repository" />
       <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-ORM-Mapping-ManyToOne\src\main\java\com\orm3\entity" />
       <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-SQL-Review\src\main" />
-      <recent name="C:\Users\turky\Desktop\Java Developer\Projects\Spring-ORM-SQL\Spring-SQL-Review\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CinemaappApplication">
+  <component name="RunManager" selected="Spring Boot.JpqlApplication">
     <configuration name="ttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.orm.repository.ttt" />
       <module name="Spring-ORM-TableCreation" />
@@ -103,15 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,6 +147,20 @@
     <configuration name="CinemaappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Spring-ORM-CinemaLab" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cinema.CinemaappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DerivedqueriyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-ORM-DerivedQueries" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.derivedquery.DerivedqueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-ORM-Mapping-JPQL-NamedQueries" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpql.JpqlApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,7 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1608483578411</updated>
       <workItem from="1608483579458" duration="46536000" />
-      <workItem from="1609012384429" duration="5257000" />
+      <workItem from="1609012384429" duration="5526000" />
+      <workItem from="1609018905257" duration="1467000" />
+      <workItem from="1609022775956" duration="4492000" />
+      <workItem from="1609077239008" duration="7627000" />
+      <workItem from="1609122606046" duration="465000" />
+      <workItem from="1609123086055" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Cinema App">
       <created>1609012509363</created>
@@ -203,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609015580769</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cinema App">
+      <created>1609018628619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609018628619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cinema App">
+      <created>1609018781033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609018781033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +280,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cinema App" />
@@ -233,73 +295,81 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608497290450" />
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1609017989243">
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1609018648314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609017989243" />
-    <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608495420442">
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609018648314" />
+    <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609122662035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608495420442" />
-    <state width="1493" height="74" key="GridCell.Tab.0.bottom" timestamp="1609016059535">
+    <state x="500" y="281" width="536" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609122662035" />
+    <state x="490" y="157" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609081665305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
+    <state x="490" y="157" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609081665305" />
+    <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1609079067829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="332" key="Github.CreateGistDialog/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609079067829" />
+    <state width="1493" height="74" key="GridCell.Tab.0.bottom" timestamp="1609123073934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="74" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073934" />
     <state width="1877" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="74" key="GridCell.Tab.0.center" timestamp="1609016059535">
+    <state width="1493" height="74" key="GridCell.Tab.0.center" timestamp="1609123073934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
+    <state width="1493" height="74" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073934" />
     <state width="1877" height="122" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="74" key="GridCell.Tab.0.left" timestamp="1609016059535">
+    <state width="1493" height="74" key="GridCell.Tab.0.left" timestamp="1609123073934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
+    <state width="1493" height="74" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073934" />
     <state width="1877" height="122" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="74" key="GridCell.Tab.0.right" timestamp="1609016059535">
+    <state width="1493" height="74" key="GridCell.Tab.0.right" timestamp="1609123073934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
+    <state width="1493" height="74" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073934" />
     <state width="1877" height="122" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1608626740461" />
-    <state width="1493" height="74" key="GridCell.Tab.1.bottom" timestamp="1609016059536">
+    <state width="1493" height="74" key="GridCell.Tab.1.bottom" timestamp="1609123073935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
-    <state width="1493" height="74" key="GridCell.Tab.1.center" timestamp="1609016059536">
+    <state width="1493" height="74" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073935" />
+    <state width="1493" height="74" key="GridCell.Tab.1.center" timestamp="1609123073935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
-    <state width="1493" height="74" key="GridCell.Tab.1.left" timestamp="1609016059535">
+    <state width="1493" height="74" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073935" />
+    <state width="1493" height="74" key="GridCell.Tab.1.left" timestamp="1609123073935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059535" />
-    <state width="1493" height="74" key="GridCell.Tab.1.right" timestamp="1609016059536">
+    <state width="1493" height="74" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073935" />
+    <state width="1493" height="74" key="GridCell.Tab.1.right" timestamp="1609123073935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="74" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609016059536" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1609011407973">
+    <state width="1493" height="74" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609123073935" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609120620665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609011407973" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1609015582363">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609120620665" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1609018782174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609015582363" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609018782174" />
     <state x="668" y="273" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1608497088723">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="668" y="273" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608497088723" />
-    <state x="668" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609011432026">
+    <state x="668" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609120954276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="668" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609011432026" />
+    <state x="668" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609120954276" />
     <state x="566" y="233" width="403" height="350" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1608497128144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="233" width="403" height="350" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1608497128144" />
-    <state x="209" y="73" key="new project wizard" timestamp="1609011405430">
+    <state x="209" y="73" key="new project wizard" timestamp="1609120615815">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="73" key="new project wizard/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609011405430" />
+    <state x="209" y="73" key="new project wizard/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1609120615815" />
   </component>
 </project>
