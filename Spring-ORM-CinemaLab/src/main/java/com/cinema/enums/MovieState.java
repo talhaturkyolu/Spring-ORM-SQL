@@ -2,5 +2,5 @@ package com.cinema.enums;
 
 public enum MovieState {
 
-    ACTIVE,DRAFT,SUSPENDED;
+    ACTIVE,DRAFT,SUSPENDED
 }

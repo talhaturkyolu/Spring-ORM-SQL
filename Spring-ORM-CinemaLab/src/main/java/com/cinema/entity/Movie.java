@@ -1,5 +1,4 @@
 package com.cinema.entity;
-
 import com.cinema.enums.MovieState;
 import com.cinema.enums.MovieType;
 import lombok.Getter;
@@ -11,6 +10,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 @Entity
 @Getter
