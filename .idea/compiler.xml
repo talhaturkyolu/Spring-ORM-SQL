@@ -8,11 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-ORM-TableCreation" />
-        <module name="Spring-ORM-OneToMany" />
         <module name="Spring-ORM-CinemaLab" />
         <module name="Spring-ORM-Mapping-ManyToOne" />
         <module name="Spring-ORM-DerivedQueries" />
         <module name="Spring-ORM-Mapping-JPQL-NamedQueries" />
+        <module name="Spring-ORM-OneToMany" />
         <module name="Spring-ORM-Mapping-OneToOne" />
         <module name="Spring-ORM-Mapping-ManyToMany" />
       </profile>

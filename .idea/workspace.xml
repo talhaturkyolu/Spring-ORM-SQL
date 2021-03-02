@@ -23,34 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7ead3-6b52-48fc-9257-f947ac7c07f0" name="Default Changelist" comment="JPQL">
-      <change afterPath="$PROJECT_DIR$/Spring-ORM-DerivedQueries/src/main/java/com/derivedquery/DerivedqueryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823/storage_v2/_src_/database/befty_db.1fWxVw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/261a4c31-d7f3-48c6-b13e-12a6b4c53823/storage_v2/_src_/database/befty_db.1fWxVw/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/CinemaappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/CinemaappApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/bootsrap/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/bootsrap/DataGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Cinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/MovieCinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/MovieCinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/MovieState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/MovieState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/MovieType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/MovieType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/enums/UserRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/CinemaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/CinemaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/GenreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/GenreRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieCinemaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieCinemaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/MovieRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/TicketRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/TicketRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/java/com/cinema/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-ORM-CinemaLab/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +44,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Users\turky\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1lvhfuHtXq5MNKNKbJ8QaE9moSq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -88,6 +56,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -97,6 +66,7 @@
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.35300928" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -145,13 +115,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -238,6 +210,7 @@
       <workItem from="1609254694284" duration="42000" />
       <workItem from="1609254757140" duration="10975000" />
       <workItem from="1609284713699" duration="3152000" />
+      <workItem from="1614647283055" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Cinema App">
       <created>1609012509363</created>
